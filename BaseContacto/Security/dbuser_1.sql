@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [dbuser]
+    WITH PASSWORD = N'k{c;vlsjyl@1qo_oliOcpKvKmsFT7_&#$!~<ioOjcJpKqgv|', SID = 0x4CC04427CB05244486BE99C6CB46D801, DEFAULT_DATABASE = [Contacts], DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+

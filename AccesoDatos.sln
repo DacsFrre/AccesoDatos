@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{81CCFB8D-DADB-4BFB-B9AA-CA9588A27B0F}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BaseContacto", "BaseContacto\BaseContacto.sqlproj", "{951071AC-5952-4541-8E26-12A1EE67692A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{81CCFB8D-DADB-4BFB-B9AA-CA9588A27B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81CCFB8D-DADB-4BFB-B9AA-CA9588A27B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81CCFB8D-DADB-4BFB-B9AA-CA9588A27B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951071AC-5952-4541-8E26-12A1EE67692A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951071AC-5952-4541-8E26-12A1EE67692A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951071AC-5952-4541-8E26-12A1EE67692A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{951071AC-5952-4541-8E26-12A1EE67692A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951071AC-5952-4541-8E26-12A1EE67692A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951071AC-5952-4541-8E26-12A1EE67692A}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
